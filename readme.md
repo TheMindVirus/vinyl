@@ -1,10 +1,10 @@
 ![screenshot](sample_render.png)
 
 # Vinyl
-Artist: TheMindVirus
-Album:  Vinyl
-Type:   Double Disc LP
-Colour: Translucent Blue
+Artist: TheMindVirus \
+Album:  Vinyl \
+Type:   Double Disc LP \
+Colour: Translucent Blue \
 RRP:    £10
 
 ### Side A
